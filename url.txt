@@ -1,1 +1,1 @@
-https://dicodingbikesharingproject.streamlit.app
+https://dcdbikesharingproject.streamlit.app
